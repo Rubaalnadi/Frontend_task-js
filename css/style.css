@@ -89,6 +89,7 @@ nav{
 }
 .nav-left h3{
     color: #fff;
+    margin-left: 0;
 }
 .user-image{
     width: 50px;
